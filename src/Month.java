@@ -44,6 +44,7 @@ public class Month {
                 System.out.println("Tháng "+ month+" có 31 ngày");
                 break;
             default:
+                System.out.println("không có tháng đó");
         }
 
     }
